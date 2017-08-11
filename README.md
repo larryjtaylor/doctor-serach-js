@@ -13,6 +13,8 @@ _This app allows a user to enter a medical issue they are having and be able to 
 * Find repo in browser by typing https://github.com/larryjtaylor/doctor-serach-js.git
 * Select the dropdown (green box) "Clone or download"
 * Copy the link for the GitHub repository
+* Navigate to https://developer.betterdoctor.com/ in your browser and sign up for an API key
+type the key, in quotes, in the .env file after `````exports.apiKey =`````
 * Open Terminal on your computer
 * In Terminal, perform the following commands:
   * npm install
